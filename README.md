@@ -18,11 +18,11 @@ Built with a hybrid encryption model combining **RSA-2048** and **AES-256-CBC**,
 
 **Refreshed Team** is responsible for the complete design, development, and testing of this project.
 
-| Member | Role |
-| :--- | :--- |
-| **Mahmoud ABD ELKream** | Lead Developer & Cryptography Engineer |
-| **Magdy Mohy** | Backend Developer & Security Architect |
-| **Loai Ahmed** | Frontend Developer & UI/UX Designer |
+| Member | 
+| :--- | 
+| **Mahmoud ABD ELKream** | 
+| **Magdy Mohy** | 
+| **Loai Ahmed** | 
 
 ---
 
